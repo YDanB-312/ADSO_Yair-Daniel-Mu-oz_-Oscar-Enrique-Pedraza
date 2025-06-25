@@ -36,6 +36,10 @@ nav a:hover {
     background-color: #555;
 }
 
+main {
+    padding: 20px;
+}
+
 table {
     width: 95%;
     max-width: 800px;
